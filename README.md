@@ -40,7 +40,7 @@
     <!-- TaxiAurora -->
     <td align="center" width="48%" valign="top">
       <h3>TaxiAurora</h3>
-     A custom booking system that makes managing bookings simple
+     <p>A custom booking system that makes managing bookings simple</p>
       <p>
         <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=00d2ff" alt="Stripe" />
         <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d2ff" alt="React" />
