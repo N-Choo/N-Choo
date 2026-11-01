@@ -45,6 +45,7 @@
         <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=00d2ff" alt="Stripe" />
         <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d2ff" alt="React" />
         <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00d2ff" alt="Rust" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00d2ff" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00d2ff" alt="Docker" />
         <img src="https://img.shields.io/badge/Resend-0d1117?style=flat-square&logo=resend&logoColor=00d2ff" alt="Resend" />
         <img src="https://img.shields.io/badge/Mapbox-0d1117?style=flat-square&logo=mapbox&logoColor=00d2ff" alt="Mapbox" />
