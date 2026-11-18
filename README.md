@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <i>I design, build, deploy, and operate the product end-to-end.</i>
+  <i>I design, build, deploy, and operate the product end-to-end with care and love</i>
 </p>
 
 <br/>
